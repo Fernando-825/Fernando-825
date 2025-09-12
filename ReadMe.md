@@ -17,3 +17,4 @@ Nombre: Fernando Rodolfo Martínez Martínez<br><br>Edad: 20 años<br><br>Ocupac
 <br><br><br>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvEEvan2FcFDizh3AOSg8q_tPT0vlR04AE1Q&s" alt="Furros x siempre"/>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3ZqcoukyolQE5RSIPTOoWUQ4GhqY_yLGWrQ&s" alt="Furry">
+<img src="https://image.cdn2.seaart.me/2025-04-07/cvpjh5le878c739blbtg/b3ed5b5c572061dd40ef931784b324ce_high.webp" alt="Furrys ricos" />
