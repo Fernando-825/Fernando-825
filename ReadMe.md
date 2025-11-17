@@ -1,6 +1,5 @@
 # 💫 About Me:
 Nombre: Fernando Rodolfo Martínez Martínez<br><br>Edad: 20 años<br><br>Ocupación: Estudiante de UTEZ<br>(Universidad Tecnológica de Emiliano Zapata)<br><br>Especialidad futura: Ingeniero en Desarrollo de Software
-<br><br>Me gustan los furros chichones, algún día espero poder hacer un trío con dos furros chichones 🍆🍆🍆💦💦😋🥵🥵
 
 
 # 💻 Tech Stack:
